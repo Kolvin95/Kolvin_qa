@@ -3,4 +3,3 @@
 ---
 [Пример моих тест кейсов 2.8](https://docs.google.com/spreadsheets/d/1NX7fTYv_glg4TMHprx1gEtVYQJYuXZfGq2qa2Qq-cz8/edit?usp=sharing)
 ---
-TEST123
